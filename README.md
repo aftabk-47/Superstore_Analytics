@@ -40,7 +40,6 @@ This project analyzes the Kaggle Superstore dataset to uncover sales trends, pro
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-* Power BI
 
 ## Project Workflow
 
